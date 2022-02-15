@@ -5,6 +5,7 @@ void main() {
   return runApp(MyApp());
 }
 
+
 class MyApp extends StatelessWidget {
   final Color primaryColor = const Color(0xff009689);
   final Color secondryColor = const Color(0xff5c7d89);
